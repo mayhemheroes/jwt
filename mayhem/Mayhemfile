@@ -1,0 +1,4 @@
+project: jwt
+target: jwt-jwt-fuzz
+cmds:
+  - cmd: ./jwt-jwt-fuzz.libfuzzer
